@@ -1,0 +1,2 @@
+class GuessCardsController < ApplicationController
+end

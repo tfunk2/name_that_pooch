@@ -1,0 +1,2 @@
+class GuessCard < ApplicationRecord
+end
